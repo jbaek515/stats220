@@ -4,8 +4,8 @@ This is my repo for STATS 220.
 
 *project1*
 
--hi
--hi
+- hi
+- hi1
 
-website[website]
+website [website]
 (https://google.com)

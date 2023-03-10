@@ -1,2 +1,11 @@
 # stats220
-project 1
+
+This is my repo for STATS 220.
+
+*project1*
+
+-hi
+-hi
+
+website[website]
+(https://google.com)

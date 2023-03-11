@@ -7,5 +7,4 @@ This is my repo for STATS 220.
 - hi
 - hi1
 
-website [website]
-(https://www.youtube.com/)
+website [website](https://www.youtube.com)
